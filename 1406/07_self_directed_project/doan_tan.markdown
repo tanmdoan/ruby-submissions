@@ -127,3 +127,45 @@ OpenColorado api for afterschool program locations
 * [Any other integrations?]
 
 What other integrations do you think could be cool with an App like this?
+
+
+### Idea 4:
+
+### [Project Title]
+
+[If this project gets selected, put **SELECTED** here]
+HealthyCar
+
+#### Pitch
+
+[1 sentence that explains the value proposition of the application. How would
+you explain it to a potential business partner, team member, or investor?]
+
+Consumers are always buying new cars and to help retain the value of the car the application
+will help deal with managing all issues related to a new car purchase.
+
+#### Description
+
+[5-8 sentences about the application, what it'll do, and why it should exist]
+
+Manage all information related to your new purchase including maintenance schedules, recalls, documents and
+setup reminders. Also use the application to figure out local labor rates for services needed to be
+done on your vehicle.
+
+#### Target Audience
+
+[2-4 sentences about who would use this application]
+
+Parents looking to improve after hour activities for their children by providing the preferred
+environment for their children.
+
+
+#### Integrations
+
+* [What OAuth provider makes sense for this audience?]
+
+* [What Data.gov data or API will you use?]
+Edmunds API - http://edmunds.mashery.com/io-docs
+* [Any other integrations?]
+
+Suggestions as well?
