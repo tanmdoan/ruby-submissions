@@ -84,3 +84,46 @@ Microsoft Healthvault, facebook, or google
 * [What Data.gov data or API will you use?]
 openFDA api
 * [Any other integrations?]
+
+
+### Idea 3:
+
+### [Project Title]
+
+[If this project gets selected, put **SELECTED** here]
+After the Classroom
+
+#### Pitch
+
+[1 sentence that explains the value proposition of the application. How would
+you explain it to a potential business partner, team member, or investor?]
+
+Finding the perfect immersive after school program for your child's development is imperative for their
+growth and success for the future.
+
+#### Description
+
+[5-8 sentences about the application, what it'll do, and why it should exist]
+
+There are many after school programs out there and finding the right one can be tricky. There are no apps that exist
+that makes comparing, picking and reviewing after school programs. Meet the yelp for after school programs
+where parents can review and add after school programs to help other parents make decisions. The API will help
+parents pick the the programs near them as well and share it with their friends.
+
+#### Target Audience
+
+[2-4 sentences about who would use this application]
+
+Parents looking to improve after hour activities for their children by providing the preferred
+environment for their children.
+
+
+#### Integrations
+
+* [What OAuth provider makes sense for this audience?]
+
+* [What Data.gov data or API will you use?]
+OpenColorado api for afterschool program locations
+* [Any other integrations?]
+
+What other integrations do you think could be cool with an App like this?
