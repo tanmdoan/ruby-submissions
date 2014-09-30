@@ -1,7 +1,10 @@
+### Idea 1:
+
 ### [Project Title]
 
 [If this project gets selected, put **SELECTED** here]
 GiveStarter
+
 #### Pitch
 1
 [1 sentence that explains the value proposition of the application. How would
@@ -36,4 +39,48 @@ and improving the lives of others in need but need the help to do so.
 Facebook
 * [What Data.gov data or API will you use?]
 VolunteerMatch API
+* [Any other integrations?]
+
+
+
+
+### Idea 2:
+
+### [Project Title]
+
+[If this project gets selected, put **SELECTED** here]
+FollowYourMeds
+
+#### Pitch
+
+[1 sentence that explains the value proposition of the application. How would
+you explain it to a potential business partner, team member, or investor?]
+
+This application helps patients organize their medications as well as using an adverse reaction api to help
+patients stay informed about their prescriptions or considerations.
+
+
+
+#### Description
+
+[5-8 sentences about the application, what it'll do, and why it should exist]
+
+The main purpose of the application is to help patients organize the medications they are currently
+taking. They add medication information, photos of the tablet morphology, labels and doctor's notes
+regarding medications. Patients may also opt for SMS reminders for taking their meds or
+track adverse reaction related issues added to the API with e-mail notifications.
+
+#### Target Audience
+
+[2-4 sentences about who would use this application]
+
+Generally any population of patients that are taking medications of some sort. Patients taking heavy
+dosages with many different types of pharmaceuticals will benefit the most.
+
+#### Integrations
+
+* [What OAuth provider makes sense for this audience?]
+Microsoft Healthvault, facebook, or google
+* [What Data.gov data or API will you use?]
+openFDA api
 * [Any other integrations?]
