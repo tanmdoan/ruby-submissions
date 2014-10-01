@@ -2,36 +2,40 @@
 
 ### [Project Title]
 
-[If this project gets selected, put **SELECTED** here]
-GiveStarter
+
+**SELECTED**
+
+Together We Help or Volunteered *revised*
 
 #### Pitch
-1
 [1 sentence that explains the value proposition of the application. How would
 you explain it to a potential business partner, team member, or investor?]
 
-Volunteering can be costly at times so GiveStarter is an application that helps you raise money to fulfill
-the volunteering event you want to participate in.
+In efforts to promote more volunteering within communities, this application helps the user
+collaborate with their friends socially to organize group participation.
 
 #### Description
 
 [5-8 sentences about the application, what it'll do, and why it should exist]
 
 Most people want to give back to the community and one of the best ways to do so is to volunteer
-at an event that makes an impact on those around you. However some volunteering requires resources
-that you sometimes don't have access to. The idea of the application is for you to raise money for
-a volunteering opportunity you chose to participate in. The idea is like kickstarter meets volunteering.
-You pick an event near you and you share it with other people to raise a goal that allows you to
-follow through with the deed.
+at an event that makes an impact on those around you.
+
+How it works:
+
+Find an event happening near you, you share it with your friends,
+and get them to vote on events you want to participate in. Mean while it is encouraged that the user interacts
+with their friends through the app to come to a well informed decision. Each poll extends for 14 days and ends 14 days
+from the volunteering date. At this point the opportunity with the highest votes is picked and everyone receives a
+notice to confirm or decline their participation.
 
 #### Target Audience
 
 [2-4 sentences about who would use this application]
 
 Almost anyone can use this app however the main target would be more for students looking to build their resume
-for grad school, anyone looking to make an change in your community or someone who simply is looking
-for a pass time that has a lot of meaning behind it. Someone who values the quality of the place they live in
-and improving the lives of others in need but need the help to do so.
+for grad school. Anyone looking to make an change in your community or someone who simply is looking
+for a pass time that has a lot of meaning behind it. Finally, one who values the quality of the place they live in but need a nudge to get the the wheels to turn.
 
 #### Integrations
 
@@ -90,7 +94,7 @@ openFDA api
 
 ### [Project Title]
 
-[If this project gets selected, put **SELECTED** here]
+[***Selected***]
 After the Classroom
 
 #### Pitch
